@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David Mbugua
+# ⚡️ Hi, I'm David Mbugua
 
 **Fullstack Developer | React • Node.js • Python**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Hi, I’m David Mbugua — a passionate fullstack developer who loves building scalable and user-friendly web applications. I specialize in React, Node.js, and Python, and I thrive on solving real-world problems with clean, efficient code. My recent work includes developing productivity tools, financial management apps, and contributing to open source projects. I’m always eager to learn, collaborate, and take on new challenges!
+Hi, I’m David Mbugua — a passionate fullstack developer who loves building scalable and user-friendly web applications. I specialize in React, Node.js, and Python, and I thrive on solving real-world challenges.
 
 ---
 
