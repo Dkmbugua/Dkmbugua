@@ -23,7 +23,7 @@ Hi, I’m David Mbugua — a passionate fullstack developer who loves building s
 
 ### [Expense Tracker](https://github.com/Dkmbugua/fontend-expense-tracker)
 A modern web app for managing personal finances, tracking expenses, and visualizing budgets.  
-**Tech Stack:** React, Node.js, MongoDB  
+
 **Highlights:**  
 - Intuitive UI for adding, editing, and deleting expenses  
 - Real-time budget analytics & charts  
@@ -33,7 +33,7 @@ A modern web app for managing personal finances, tracking expenses, and visualiz
 
 ### [Cybasoft Drive](https://github.com/cybasoft/cybasoft-drive)
 A cloud-based file management system for storing, sharing, and organizing documents.  
-**Tech Stack:** React, Node.js  
+  
 **Highlights:**  
 - File upload/download functionality  
 - User permissions & access control  
