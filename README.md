@@ -21,7 +21,7 @@ Hi, I’m David Mbugua — a passionate fullstack developer who loves building s
 
 ## 🌟 Featured Projects
 
-### [Expense Tracker](https://github.com/Dkmbugua/fontend-expense-tracker)
+### [Expense Tracker](https://github.com/Dkmbugua/expense-tracker-backend)
 A modern web app for managing personal finances, tracking expenses, and visualizing budgets.  
 
 **Highlights:**  
